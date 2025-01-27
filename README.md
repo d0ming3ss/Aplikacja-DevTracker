@@ -7,7 +7,8 @@ Praca inżynierska PWr.
 # Aplikacja do Zarządzania Projektami z Integracją JIRA
 
 ### Opis projektu  
-Aplikacja webowa umożliwiająca zarządzanie projektami, śledzenie postępów zespołów programistycznych oraz integrację z systemem JIRA poprzez RESTful API. Projekt został zrealizowany jako część pracy inżynierskiej.
+Aplikacja webowa umożliwiająca zarządzanie projektami, śledzenie postępów zespołów programistycznych oraz integrację z systemem JIRA poprzez RESTful API. 
+Projekt został zrealizowany jako praca inżynierska.
 
 ---
 
