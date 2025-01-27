@@ -33,4 +33,4 @@ Aplikacja webowa umożliwiająca zarządzanie projektami, śledzenie postępów 
 - **PostgreSQL**  
 
 ### Autor:
-# inż. Dominik Ciura
+## inż. Dominik Ciura
