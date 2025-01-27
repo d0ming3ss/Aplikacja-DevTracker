@@ -1,8 +1,8 @@
 # Aplikacja-DevTracker
 Praca inżynierska PWr. 
-- Wydział: # Informatyki i Telekomunikacji, 
-- Kierunek: # Informatyka Techniczna, 
-- Specjalizacja: # Systemy i Sieci Komputerowe.
+- Wydział: #Informatyki i Telekomunikacji, 
+- Kierunek: #Informatyka Techniczna, 
+- Specjalizacja: #Systemy i Sieci Komputerowe.
 
 # Aplikacja do Zarządzania Projektami z Integracją JIRA
 
@@ -32,5 +32,5 @@ Aplikacja webowa umożliwiająca zarządzanie projektami, śledzenie postępów 
 ### Baza danych:  
 - **PostgreSQL**  
 
-### Autor:
-## inż. Dominik Ciura
+# Autor:
+### inż. Dominik Ciura
