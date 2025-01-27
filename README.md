@@ -1,4 +1,4 @@
-# Aplikacja-DevTracker
+# Aplikacja - DevTracker
 Praca inżynierska PWr. 
 - Wydział: Informatyki i Telekomunikacji, 
 - Kierunek: Informatyka Techniczna, 
